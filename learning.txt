@@ -1,1 +1,1 @@
-I learnt how merge and pull request,how to fork a resipotory and how to open a terminal too.
+What I have learned from this course is how to merge and pull request,how to fork a resipotory and how to open a terminal too.
